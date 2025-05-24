@@ -1,0 +1,161 @@
+Diff,Type,Artikel,Word,Konjugation,Prateritum,Perfekt,Regelmäßige,Plural,Komparativ,Superlativ,Meaning,Sample_Sentence
+A2,Noun,der,Bleistift,-,-,-,-,Bleistifte,-,-,pencil,Hast du einen Bleistift ? 
+A2,Verb,-,essen,isst,aß,hat gegessen,0,-,-,-,eat,Ich esse ein Pizza. 
+A2,Verb,-,lesen,liest,las,hat gelesen,0,-,-,-,read,Er liest ein Buch. 
+A2,Verb,-,aufmachen,macht auf,machte auf,hat aufgemacht,1,-,-,-,open,Ich mache das Fenster auf.
+A2,Verb,-,zumachen,macht zu,machte zu,hat zugemacht,1,-,-,-,close,Ich mache das Fenster zu.
+A2,Verb,-,aufräumen,räumt auf,räumte auf,hat aufgeräumt,1,-,-,-,tidy up,Ich räume das Zimmer auf.
+A2,Verb,-,gehen,geht,ging,ist gegangen,1,-,-,-,go,Sie sind ins Kino gegangen. 
+A2,Noun,der,Stein,-,-,-,-,Steine,-,-,rock,Der Stein ist ins Wasser gefallen.
+A2,Verb,-,fahren,fährt,fuhr,ist gefahren,0,-,-,-,drive,Du bist nach München gefahren.
+A2,Verb,-,bleiben,bleibt,blieb,ist geblieben,1,-,-,-,stay,Ich bin in Wien geblieben.
+A2,Verb,-,verlieren,verliert,verlor,hat verloren,0,-,-,-,lose,Der Mann hat die Mütze verloren. 
+A2,Verb,-,kennen,kennt,kannte,hat gekannt,0,-,-,-,know,Kennst du preiswerte Geschäfte ? 
+A2,Verb,-,zuordnen,ordnet zu,ordnete zu,hat zugeordnet,1,-,-,-,assign,Jeder Wohnung ist ein Garten zugeordnet. 
+A2,Noun,das,Ausland,-,,-,-,Auslands,-,-,foreign country,26% der Einwohner kommen aus dem Ausland. 
+A2,Noun,der,Einwohner,-,,-,-,Einwohners,-,-,resident,26% der Einwohner kommen aus dem Ausland. 
+A2,Verb,-,treffen,trifft,traf,hat getroffen,0,-,-,-,meet with,Hast du ihn getroffen ? 
+A2,Verb,-,vorstellen,stellt vor,stellte vor,hat vorgestellt,1,-,-,-,"imagine, introduce",Sie hat mich seinem Bruder vorgestellt. 
+A2,Verb,-,trennen,trennt,trennte,hat getrennt,1,-,-,-,"split up, separate",Wir möchten bitte zahlen. Zusammen oder getrennt ? 
+A2,Verb,-,vertrauen,vertraut,vertraute,hat vertraut,1,-,-,-,trust,Vertrau ihm nicht. 
+A2,Verb,-,gefallen,gefällt,gefiel,hat gefallen,0,-,-,-,like,Du gefällst mir.
+A2,Verb,-,gehören,gehört,gehörte,hat gehört,1,-,-,-,belong,Das gehört meinem Bruder. 
+A2,Verb,-,helfen,hilft,half,hat geholfen,0,-,-,-,help,Die Kinder helfen ihm. 
+A2,Verb,-,nehmen,nimmt,nahm,hat genommen,0,-,-,-,take,Nimm die Medikamente ! 
+A2,Verb,-,vergessen,vergisst,vergaß,hat vergessen,0,-,-,-,forget,Vergesst eure Pässe nicht.
+A2,Noun,die,Rechnung,-,-,-,-,Rechnungen,-,-,"bill, check",Die Rechnung bitte. 
+A2,Verb,-,bestellen,bestellt,bestellte,hat bestellt,1,-,-,-,order,Wer hat die Heiße Schokolade bestellt ? 
+A2,Adjektive,-,preiswert,-,-,-,-,-,preiswerter,am preiswertesten,inexpensive,Gibt es ein preiswertes Hotel hier ? 
+A2,Noun,der,Fehler,-,-,-,-,Fehlers,-,-,mistake,Jeder macht Fehler
+A2,Noun,der,Nachbar,-,-,-,-,Nachbarn,-,-,neighbor,Polen ist ein Nachbar Deutschlands 
+A2,Verb,-,lassen,lässt,ließ,hat gelassen,0,-,,,"let, leave, give up, stop","Ich lasse das Rauchen
+Sie lässt sein Motorrad in der Garage stehen 
+Der Laptop lässt sich nicht reparieren
+Du lässt dir eine Pizza bringen"
+A2,Noun,die,Möglichkeit,-,-,-,-,Möglichkeiten,-,-,"option, possibility",Es gibt mehrere Möglichkeiten. 
+A2,Noun,der,Spiegel,-,-,-,-,Spiegel,-,-,mirror,Wo ist ein Spiegel ? 
+A2,Verb,-,bekommen,bekommt,bekam,hat bekommen,1,-,-,-,"receive,get",Ich habe deinen Brief vorgestern bekommen
+A2,Verb,-,merken,merkt,merkte,hat gemerkt,1,-,-,-,"notice, realize, remember","Ich merke es genau, ich bekomme einen Schnupfen. "
+A2,Verb,-,aufhören,hört auf,hörte auf,hat aufgehört,1,-,-,-,"stop, quit","Bis er das Rauchen aufgehört hat, hat er pro Tag circa 20 Zigaretten geraucht"
+B2,Adjektive,-,weltbekannt,-,-,-,-,-,keine komparativ,keine superlativ,world-famous,Der Kölner Dom ist weltbekannt
+A2,Noun,der,Stau,-,-,-,-,Staue,-,-,traffic,"Tut mir leid, ich stehe im Stau"
+B1,Adjektive,-,speziell,-,-,-,-,-,spezieller,am speziellsten,special,Für Ausländer gibt es in allen Ländern spezielle Regeln
+C1,Verb,-,ausreden,redet aus,redete aus,hat ausgeredet,1,-,-,-,"make an excuse, talk out of, finish speaking",Lass mich doch ausreden !
+A2,Noun,die,Ausrede,-,-,-,-,Ausreden,-,-,excuse,Tom hat immer Ausreden
+B1,Noun,die,Etage,-,-,-,-,Etagen,-,-,floor,Auf welcher Etage wohnen Sie ? 
+B1,Noun,der,Redakteur,-,-,-,-,Redakteure,-,-,editor,Sowohl der Redakteur als auch der Verleger sind meine Cousins
+A2,Adjektive,-,berühmt,-,-,-,-,-,berühmter,am berühmtesten,famous,Picasso ist ein berühmter Künstler
+A2,Noun,der,Kunde,-,-,-,-,Kunden,-,-,client,Wir beraten unsere Kunden am Telefon 
+A2,Noun,der,Koffer,-,-,-,-,Koffer,-,-,suitcase,Ich packe meinen Koffer
+A2,Verb,-,besichtigen,besichtigt,besichtigte,hat besichtigt,1,-,-,-,"view, visit",Die Studenten wollen das Parlament besichtigen
+A2,Adjektive,-,voll,-,-,-,-,-,voller,am vollsten,full,Aber der Bus ist oft sehr voll 
+A2,Verb,-,versprechen,verspricht,versprach,hat versprochen,0,-,-,-,promise,Ich verspreche es
+A2,Verb,-,abholen,holt ab,holte ab,hat abgeholt,1,-,-,-,pick up,Wir holen dich ab
+A2,Verb,-,leihen,leiht,lieh,hat geliehen,0,-,-,-,"borrow,lend","Ich leihe dir Geld
+Bitte leiht mir Geld"
+A2,Noun,die,Verspätung,-,-,-,-,Verspätungen,-,-,delay,Die Strassenbahn hat Verspätung
+A2,Verb,-,umsteigen,steight um,stieg um,ist umgestiegen,0,-,-,-,switch (transport),Ich muss zweimal umsteigen
+A2,Noun,der,Treffpunkt,-,-,-,-,Treffpunkte,-,-,meeting point,Wo ist der Treffpunkt?
+A2,Verb,-,ankommen,kommt an,kam an,ist angekommen,0,-,-,-,arrive,Wann kommt der Zug in Berlin an ?
+A2,Adjektive,-,nötig,-,-,-,-,-,nötiger,am nötigsten,necessary,Ist eine Kaution nötig ?
+A2,Noun,die,Hauptstadt,-,-,-,-,Hauptstädte,-,-,Capital city,Kopenhagen - die Hauptstadt von Dänemark - ist ein gutes Beispiel. 
+A2,Noun,der,Vorschlag,-,-,-,-,Vorschläge,-,-,"offer, recommendation",Die Lösung ist eine Kombination von diesen Ideen und anderen Vorschlägen
+A2,Noun,der,Abflug,-,-,-,-,Abflüge,-,-,departure,Er wartet auf den Abflug
+A2,Noun,die,Versicherung,-,-,-,-,Versicherungen,-,-,insurance,Warum ist eine Versicherung so wichtig?
+A2,Noun,der,Bahnhof,-,-,-,-,Bahnhöfe,-,-,railway station,Es sind immer viele Leute in den Bahnhöfen
+A2,Verb,-,besitzen,besitzt,besaß,hat besessen,0,-,-,-,"own, possess",Ich besitze eine Große Menge von Fotos. 
+A2,Verb,-,aufregen,regt auf,regte auf,hat aufgeregt,1,-,-,-,excite,Bist du nicht aufgeregt ? 
+A2,Noun,der,Anschluss,-,-,-,-,Anschlusses,-,-,connection,"Wir sollten uns beeilen, um nicht den Anschluss zu verpassen und rechtzeitig zum Konzert zu kommen"
+A2,Verb,-,besetzen,besetzt,besetzte,hat besetzt,1,-,-,-,occupy,Alle Plätze sind besetzt
+A2,Adjektive,-,unglaublich,-,-,-,-,-,unglaublicher,am unglaublichsten,unbelievable,Du riechst unglaublich
+A2,Noun,die,Überraschung,-,-,-,-,Überraschung,-,-,surprise,"Mich hat überrascht, dass .."
+A2,Verb,-,beschweren,beschwert,beschwerte,hat beschwert,1,-,-,-,complain,Frau Morena beschwert sich über den Lärm
+A2,Verb,-,bellen,bellt,bellte,hat gebellt,1,-,-,-,bark,Mein Hund bellt die ganze Zeit
+A2,Verb,-,schaffen,schafft,schuf,hat geschaffen,0,-,-,-,"create, make","Nein, das schaffe ich leider nicht"
+A2,Noun,der,Park,-,-,-,-,Parks,-,-,Park,Der Park ist leer. 
+A2,Noun,die,Post,-,-,-,-,Post,-,-,Post,Wo ist die Post ? 
+A2,Noun,der,Supermarkt,-,-,-,-,Supermarkts,,,Supermarket,
+A2,Noun,die,Luft,-,-,-,-,Lüfte,-,-,air,Ich brauche Luft
+A2,Noun,der,Radweg,-,-,-,-,Radwage,-,-,bike lane,Überall gibt es Radwage
+A2,Adjektive,-,sinvoll,-,-,-,-,-,sinvoller,am sinvollsten,meaningful,"Für mich ist ..., nicht sinvoll. "
+A2,Verb,-,abstellen,stellt ab,stellte ab,hat abgestellt,1,-,-,-,stop,Bitte stellen Sie den Motor ab
+A2,Noun,die,Beschreibung,-,-,-,-,Beschreibungen,-,-,"description, instruction",Die Beschreibung in der Zeitung passt auf ihn
+A2,Noun,die,Angst,-,-,-,-,Ängste,-,-,"fear, anxiety","Ich habe Angst, dass ich einen doofen Fehler beim Fahren mach, weil ich so so aufgeregt bin"
+A2,Noun,das,Projekt,-,-,-,-,Projekte,-,-,Project,Was für ein Filmprojekt möchten Sie gern mal übersetzen ? 
+A2,Adjektive,-,erfahren,-,-,-,-,-,erfahrener,am fahrensten,expert,Am Wochenende bieten wir Workshops mit erfahren Prüferinnen und Prüfern
+A2,Noun,der,Auftrag,-,-,-,-,Aufträge,-,-,contract,Über was für einen Auftrag freuen Sie sich am meisten ? 
+A2,Noun,die,Ausbildung,-,-,-,-,Ausbildungen,-,-,training,Ich mache eine Ausbildung bei Ford
+A2,Noun,der,Ausflug,-,-,-,-,Ausflüge,-,-,trip,Was für einen Ausflug wollt ihr machen ? 
+A2,Noun,die,Präsentation,-,-,-,-,Präsentationen,-,-,presentation,
+A2,Verb,-,entspannen,entspannt,enspannte,hat entspannt,1,-,-,-,relax,Er entspannt sich zu Hause 
+A2,Noun,die,Enttäuschung,-,-,-,-,Enttäuschungen,-,-,dissappointment,Das Ergebnis war eine Enttäuschung
+A2,Noun,der,Zeitdruck,-,-,-,-,-,-,-,time pressure,Ich bin in Zeitdruck
+A2,Noun,das,Pendeln,-,-,-,-,-,-,-,commuting,Aber etwas Gutes hat das Pedeln schon
+A2,Verb,-,pendeln,pendelt,pendelte,hat gependelt,1,-,-,-,commute,Ich pendle jeden Tag zwischen meinem Zuhause und meinem Arbeitsplatz
+A2,Verb,-,gebrauchen,gebraucht,gebrauchte,hat gebraucht,1,-,-,-,use,I habe ein gebrauchtes Instrument gekauft. (here used as adjective)
+A2,Noun,die,Einführung,-,-,-,-,Einführungen,-,-,introduction,Das war als Einführung super
+A2,Verb,-,pensionieren,pensioniert,pensionierte,hat pensioniert,1,-,-,-,retire,"Soweit ich weiß, ist Tom pensioniert"
+A2,Adjektive,-,notwending,-,-,-,-,-,notwendinger,am notwendigsten,necessary,"In meiner Firma habe ich auch am Computer gearbeitet, weil es notwendig war"
+B1,Noun,das,Zeitempfinden,-,-,-,-,Zeitempfindens,-,-,sense of time,Das Zeitempfinden verändert sich mit dem Alter.
+B1,Noun,das,Gehirn,-,-,-,-,Gehirne,-,-,"brain,mind",Pflanzen haben kein Gehirn
+B1,Noun,der,Vorgang,-,-,-,-,Vorgänge,-,-,process,Der Vorgang ist noch nicht abgeschlossen
+B1,Verb,-,wahrnehmen,nimmt wahr,nahm war,hat wahrgenommen,0,-,-,-,"notice,sense",Haie können Blut wahrnehmen
+B1,Verb,-,gelingen,gelingt,gelang,ist gelungen,0,-,-,-,succeed,Ihm gelingt alles
+B1,Noun,die,Fähigkeit,-,-,-,-,Fähigkeiten,-,-,skill,Alle haben verschiedene Fähigkeiten. 
+B1,Adjektive,-,fleißig,-,-,-,-,-,fleißiger,am fleißigsten,hardworking,Ken ist ein fleißiger Schüler. 
+B1,Noun,die,Begeisterung,-,-,-,-,Begeisterung,-,-,Excitement,Tom arbeitet mit Begeisterung. 
+B1,Verb,-,sich begeistern,begeistert,begeisterte,hat begeistert,1,-,-,-,excite,Welche Aktivitäten begeistern Sie?
+B1,Noun,das,Gesetz,-,-,-,-,Gesetze,-,-,rule,Hier sind andere Gesetze gültig. 
+B1,Verb,-,unterbrechen,unterbricht,unterbrach,hat unterbrochen,0,-,-,-,interrupt,Unterbrechen Sie die andere Person nicht. 
+B1,Noun,die,Unterkunft,-,-,-,-,Unterkünfte,-,-,accomodation,"Unsere Unkunft ist auch schön, mitten in Zentrum und nicht teuer."
+B1,Verb,-,empfehlen,empfiehlt,empfahl,hat empfohlen,0,-,-,-,"recommend, advice",Was empfiehlst du mir ? 
+B1,Verb,-,verzichten,verzichtet,verzichtete,hat verzichtet,1,-,-,-,"do without, refrain",Europa kann auf Gas aus Russland nicht verzichten
+B1,Verb,-,einziehen,zieht ein,zog ein,ist eingezogen,0,-,-,-,move in,Ich bin gerade eingezogen
+B1,Noun,der,Lohn,-,-,-,-,Löhne,-,-,salary,Wir brauchen einen höheren Lohn
+B1,Noun,die,Unterstützung,-,-,-,-,Unterstützungen,-,-,support,Sie bedankte sich für die Unterstützung
+B1,Noun,die,Arbeitsbedingung,-,-,-,-,Arbeitsbedingungen,-,-,working condition,"Eine gute Bezahlung ist wichtig, aber ich finde, dass gute Arbeitsbedingungen genauso wichtig sind."
+B1,Noun,die,Tätigkeit,-,-,-,-,Tätigkeiten,-,-,activity,Im letzten Job habe ich nur sehr einfache Tätigkeiten gemacht. 
+B1,Verb,-,verbessern,verbessert,verbesserte,hat verbessert,1,-,-,-,improve,"Ich möchte noch verbessern, flüssig zu sprechen. "
+B1,Noun,die,Selbstverteidigung,-,-,-,-,Selbstverteidigungen,-,-,self-defence,Du solltest Selbstverteidigung lernen. 
+B1,Noun,das,Gerät,-,-,-,-,Geräte,-,-,"device, tool",2000 m2 Trainingtläche modernste Ausstattung und Geräte .... 
+B1,Verb,-,vermuten,vermutet,vermutete,hat vermutet,1,-,-,-,assume / guess / suspect,Vermutet Tom etwas?
+B1,Noun,die,Vermutung,-,-,-,-,Vermutungen,-,-,assumption,Das sind nur Vermutungen
+B1,Verb,-,bügeln,bügelt,bügelte,hat gebügelt,1,-,-,-,iron,Tom bügelt sein Hemd
+B1,Adjektive,-,ungewöhnlich,-,-,-,-,-,ungewöhnlicher,am ungewöhnlichsten,unusual,Tom hat einen ungewöhnlichen Nachnamen. 
+B1.2,Adjektive,-,ehrlich,-,-,-,-,-,ehrlicher,am ehrlichsten,honest,"Er ist arm, aber ehrlich"
+B1.2,Verb,-,beschließen,beschließt,beschloss,hat beschlossen,0,-,-,-,"decide, conclude",Was ist beschlossen worden ?
+B1.2,Verb,-,zusammenstoßen,stößt zusammen,stieß zusammen,ist zusammengestoßen,0,-,-,-,to collide,Zwei Autos sind zusammengestoßen
+B1.2,Verb,-,erwarten,erwartet,erwartete,hat erwartet,1,-,-,-,expect,"Sie wissen, was Sie erwartet. "
+B1.2,Verb,-,recherchieren,recherchiert,recherchierte,hat recherchiert,1,-,-,-,research,Er recherchierte in der Universitätsbibliothek für ein Referat.
+B1.2,Noun,der,Alltag,-,-,-,-,Alltage,-,-,everyday-life,"Viele Menschen möchten sich gesünder ernähren, aber im stressigen Alltag ist das oft nicht so einfach"
+B1.2,Verb,-,teilen,teilt,teilte,hat geteilt,1,-,-,-,"divide, share", Sie teilen sich dabei die Arbeit
+B1.2,Verb,-,abtrocknen,trocknet ab,trocknete ab,ist abgetrocknet,1,-,-,-,dry,Danach trocknet sie das saubere Geschirr ab
+B1.2,Noun,das,Geschirr,-,-,-,-,Geschirre,-,-,dishes,Er wäscht das Geschirr
+B1.2,Noun,die,Ernährung,-,-,-,-,Ernährung,-,-,nutrition,"Eine gesunde ""Ernährung"" ist wichtig"
+B1.2,Adverb,-,ebenfalls,-,-,-,-,-,-,-,likewise,
+B1.2,Verb,-,abbieten,bietet an,bot an,hat angeboten,0,-,-,-,offer,Mir ist deine Stelle angeboten worden
+B1.2,Noun,die,Vorlesung,-,-,-,-,Vorlesungen,-,-,lecture,Die Vorlesung war langweilig. 
+B1.2,Noun,das,Angebot,-,-,-,-,Angebote,-,-,offer,Hat Tom dein Angebot akzeptiert ? 
+B1.2,Verb,-,erschöpfen,erschöpft,erschöpfte,hat erschöpft,1,-,-,-,exhaust,Die Arbeiter sind erschöpft. 
+B1.2,Adjektive,-,ständig,-,-,-,-,-,keine komparativ,keine superlativ,"constant, all the time",Ständig erfindest du Ausreden
+B1.2,Adjektive,-,gleichzeitig,-,-,-,-,-,keine komparativ,keine superlativ,"simultaneous, at the same time",Du lernst gleichzeitig zwei Fremdsprachen?
+B1.2,Noun,das,Mitglied,-,-,-,-,Mitglieder,-,-,member,Alle Mitglieder haben abgestimmt.
+B1.2,Noun,das,Ziel,-,-,-,-,Ziele,-,-,aim,"Jeder braucht ein ""Ziel"" "
+B1.2,Noun,das,Traumziel,-,-,-,-,Traumziele,-,-,dream destination,
+B1.2,Adjektive,-,zufällig ,-,-,-,-,-,keine komparativ,keine superlativ,"random, by luck","Dann sind wir aber zufällig auf ein kleines Haus mit einem kleinen Garten gestoßen und haben uns sofort darin verliebt und uns dafür entschieden, dort einzuziehen."
+B1.2,Adverb,-,eher,-,-,-,-,-,-,-,"more likely, rather, earlier",Heavy metal ist für die Ohren wohl eher scharf 
+B1.2,Verb,-,empfinden,empfindet,empfand,hat empfunden,0,-,-,-,feel,Sie empfand genauso wie ich
+B1.2,Verb,-,beobachten,beobachtet,beobachtete,hat beobachtet,1,-,-,-,"observe, monitor",Er beobachtet Vögel.
+B1.2,Verb,-,gelangen,gelangt,gelangte,ist gelangt,1,-,-,-,"reach, arrive at",Die Töne gelangen über die Ohren ins Gehirn. 
+B1.2,Noun,die,Stimmung,-,-,-,-,Stimmungen,-,-,mood,"Dass Musik unsere Stimmung beeinflusst, wissen wir auch aus dem Kino."
+B1.2,Verb,-,beeinflussen,beeinflusst,beeinflusste,hat beeinflusst,1,-,-,-,influence,"Dass Musik unsere Stimmung beeinflusst, wissen wir auch aus dem Kino."
+B1.2,Verb,-,stellen,stellt,stellte,hat gestellt,1,-,-,-,"set, put, ask","- Du ""stellst"" dumme Fragen
+- Tom ""stellt"" das Radio leiser."
+B1.2,Verb,-,wirken,wirkt,wirkte,hat gewirkt,1,-,-,-,"have an effect, seem, act","Du ""wirkst"" krank
+Musik wirkt sowohl auf den Körper als auch auf die Seele."
+B1.2,Adjective,-,ähnlich,-,-,-,-,-,ähnlicher,am ähnlichsten,similar,"Bulgarisch ist ""ähnlich"" wie Russisch"
+B1.2,Verb,-,hinzufügen,fügt hinzu,fügte hinzu,hat hinzugefügt,1,-,-,-,add on,Ich habe Zucker meinem Kaffee hinzugefügt. 
+B1.2,Verb,-,bevorzugen,bevorzugt,bevorzugte,hat bevorzugt,1,-,-,-,prefer,"Sie ""bevorzugt"" ruhige Musik."
+B1.2,Verb,-,schützen,schützt,schützte,hat geschützt,1,-,-,-,protect,Israel muss die Menschen im Gaza-Streifen besser schützen. 
+B1.2,Verb,-,töten,tötet,tötete,hat getötet,1,-,-,-,kill,In dem Krieg sind schon 10-tausende Palästinenser getötet worden.
+B1.2,Adjective,-,tot,-,-,-,-,-,toter,am totesten,dead,Oma ist tot. 

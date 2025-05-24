@@ -1,0 +1,22 @@
+['Stau', 'Pendeln', 'Pendeln', 'Bahnhof', 'Einführung', 
+'Projekt', 'Supermarkt', 'Supermarkt', 'Ausflug', 'Ausflug', 'Lohn', 
+'Lohn', 'Ausland', 'Zeitdruck', 'Zeitdruck', 'Anschluss', 'Anschluss', 'Gesetz', 
+'Park', 'Zeitempfinden', 'Zeitempfinden', 'Hauptstadt', 'Hauptstadt', 
+'Redakteur', 'Einwohner', 'Radweg', 'Radweg', 'Unterkunft', 'Präsentation', 
+'Präsentation', 'Gerät', 'Angst', 'Vorschlag', 'Vorschlag', 'Koffer']
+
+
+
+
+26.04.2025 = VERB SCORE 25 / 53
+['kennen', 'vergessen', 'vorstellen', 'lesen', 'umsteigen', 'lassen', 'fahren', 'helfen', 'schaffen', 
+'leihen', 'bleiben', 'ankommen', 'vertrauen', 'einziehen', 'vermuten', 'ausreden', 'unterbrechen', 'verzichten', 
+'pendeln', 'besetzen', 'entspannen', 'wahrnehmen', 'gelingen', 'empfehlen', 'sich begeistern', 'besitzen', 'gefallen', 'gehen']
+
+
+03.05.2025 = Noun Score 25 / 54 
+['Kunde', 'Spiegel', 'Überraschung', 'Projekt', 'Supermarkt', 'Radweg', 'Ausflug', 'Abflug', 'Auftrag', 'Stau', 'Vorgang', 
+'Ausrede', 'Unterkunft', 'Post', 'Angst', 'Begeisterung', 'Vorschlag', 'Hauptstadt', 'Zeitempfinden', 'Bahnhof', 
+'Zeitdruck', 'Koffer', 'Gesetz', 'Bleistift', 'Redakteur', 'Präsentation', 'Treffpunkt', 'Luft', 'Pendeln']
+
+
