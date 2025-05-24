@@ -12,6 +12,7 @@ class GermanTrainer:
         self.score = 0
         self.total = 0
         self.false_answers = []
+        self.false_answers_ids = []
         
         # Load data
         self.load_data()
@@ -108,11 +109,14 @@ class GermanTrainer:
         if correct:
             self.score += 1
             self.show_feedback("Correct!", "green")
+            print(self.current_word)
         else:
             feedback = "Incorrect. Correct answers:\n" + "\n".join(results)
             self.show_feedback(feedback, "red")
             
             self.false_answers.append(self.current_word['Word'])
+            self.false_answers_ids.append(self.current_word['wid'])
+            print(self.current_word)
             print(self.false_answers)
         
         self.root.after(1500, self.show_next_word)
