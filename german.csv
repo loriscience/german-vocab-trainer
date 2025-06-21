@@ -54,7 +54,7 @@ Du lässt dir eine Pizza bringen"
 50,A2,Verb,-,leihen,leiht,lieh,hat geliehen,0,-,-,-,"borrow,lend","Ich leihe dir Geld
 Bitte leiht mir Geld"
 51,A2,Noun,die,Verspätung,-,-,-,-,Verspätungen,-,-,delay,Die Strassenbahn hat Verspätung
-52,A2,Verb,-,umsteigen,steight um,stieg um,ist umgestiegen,0,-,-,-,switch (transport),Ich muss zweimal umsteigen
+52,A2,Verb,-,umsteigen,steigt um,stieg um,ist umgestiegen,0,-,-,-,switch (transport),Ich muss zweimal umsteigen
 53,A2,Noun,der,Treffpunkt,-,-,-,-,Treffpunkte,-,-,meeting point,Wo ist der Treffpunkt?
 54,A2,Verb,-,ankommen,kommt an,kam an,ist angekommen,0,-,-,-,arrive,Wann kommt der Zug in Berlin an ?
 55,A2,Adjektive,-,nötig,-,-,-,-,-,nötiger,am nötigsten,necessary,Ist eine Kaution nötig ?
@@ -68,7 +68,7 @@ Bitte leiht mir Geld"
 63,A2,Noun,der,Anschluss,-,-,-,-,Anschlusses,-,-,connection,"Wir sollten uns beeilen, um nicht den Anschluss zu verpassen und rechtzeitig zum Konzert zu kommen"
 64,A2,Verb,-,besetzen,besetzt,besetzte,hat besetzt,1,-,-,-,occupy,Alle Plätze sind besetzt
 65,A2,Adjektive,-,unglaublich,-,-,-,-,-,unglaublicher,am unglaublichsten,unbelievable,Du riechst unglaublich
-66,A2,Noun,die,Überraschung,-,-,-,-,Überraschung,-,-,surprise,"Mich hat überrascht, dass .."
+66,A2,Noun,die,Überraschung,-,-,-,-,Überraschungen,-,-,surprise,"Mich hat überrascht, dass .."
 67,A2,Verb,-,beschweren,beschwert,beschwerte,hat beschwert,1,-,-,-,complain,Frau Morena beschwert sich über den Lärm
 68,A2,Verb,-,bellen,bellt,bellte,hat gebellt,1,-,-,-,bark,Mein Hund bellt die ganze Zeit
 69,A2,Verb,-,schaffen,schafft,schuf,hat geschaffen,0,-,-,-,"create, make","Nein, das schaffe ich leider nicht"
@@ -159,3 +159,36 @@ Musik wirkt sowohl auf den Körper als auch auf die Seele."
 152,B1.2,Verb,-,schützen,schützt,schützte,hat geschützt,1,-,-,-,protect,Israel muss die Menschen im Gaza-Streifen besser schützen. 
 153,B1.2,Verb,-,töten,tötet,tötete,hat getötet,1,-,-,-,kill,In dem Krieg sind schon 10-tausende Palästinenser getötet worden.
 154,B1.2,Adjective,-,tot,-,-,-,-,-,toter,am totesten,dead,Oma ist tot. 
+155,B1.2,Verb,-,verlassen,verlässt,verließ,hat verlassen,0,-,-,-,"abondon, leave","Ich ""verlasse"" die Stadt"
+156,B1.2,Verb,-,entdecken,entdeckt,entdeckte,hat entdeckt,1,-,-,-,discover,"Wer hat Amerika ""entdeckt"""
+157,B1.2,Verb,-,begegnen,begegnet,begegnete,ist begegnet,1,-,-,-,encounter,"Ich bin ihm gestern zufällig am Flughafen ""begegnet"" "
+158,B1.2,Adjective,-,geduldig,-,-,-,-,-,geduldiger,am geduldigsten ,patient,"""Geduldige"" Menschen gewinnen immer."
+159,B1.2,Verb,-,reinigen,reinigt,reinigte,hat gereinigt,1,-,-,-,to clean,In einem Musuem reinigte eine Putzfrau gründlich eine scheinbar schmutzige Gummiwanne. 
+160,B1.2,Verb,-,zerstören,zerstört,zerstörte,hat zerstört,1,-,-,-,destroy,So zerstörte sie aus Versehen die Installation des bekannten Künstlers Martin Kippenberger im Wert von 800.000 Euro. 
+161,B1.2,Adverb,-,vermutlich,-,-,-,-,-,-,-,probably,
+162,B1.2,Adverb,-,wahrscheinlich,-,-,-,-,-,-,-,probably,
+163,B1.2,Verb,-,beschädigen,beschädigt,beschädigte,hat beschädigt,1,-,-,-,"harm, damage","Der Sturm ""beschädigte"" viele Fenster."
+164,B1.2,Adjective,-,dringend,-,-,-,-,-,dringender,am dringendsten,urgent,Ein deutscher Zoo brauchte dringend Geld.
+165,B1.2,Adjective,-,gezwungen,-,-,-,-,-,gezwungener,am gezwungensten,forced,"Wir haben die Tiere nicht gezwungen, alle haben freiwillig gemalt."
+166,B1.2,Verb,-,liefern,liefert,lieferte,hat geliefert,1,-,-,-,provide,Alle Künstler liefern mindestens zehn Bilder zu jeder Preiskategorie.
+167,B1.2,Noun,der,Schwerpunkt,-,-,-,-,Schwerpunkte,-,-,focus,Das aktuelle Programm des Bildungszentrums Hausen hat einen neuen Schwerpunkt.
+168,B1.2,Verb,-,umsetzen,setzt um,setzte um,hat umgesetzt,1,-,-,-,deploy,"Alice hilft Ihnen aber auch, Ihre kreativen Ideen umzusetzen."
+169,B1.2,Adjective,-,aktuell,-,-,-,-,-,aktueller,am aktuellsten,"up-to date, current ",
+170,B1.2,Verb,-,erarbeiten,erarbeitet,erarbeitete,hat erarbeitet,1,-,-,-,"to develop, 
+to work hard for something.
+To acquire  through hard work","- Wir müssen gemeinsam ein neues Konzept erarbeiten.
+- Er hat sich seinen Erfolg hart erarbeitet.
+- Sie hat sich die Grammatikregeln selbst erarbeitet."
+171,B1.2,Noun,die,Ausstellung,-,-,-,-,Ausstellungen,-,-,exhibition,Oskar interessiert sich für Architektur und möchte eine Ausstellung besuchen. 
+172,B1.2,Adjective,-,unabhängig,-,-,-,-,-,unabhängiger,am unabhängigsten,independent,"Sie sind ""unabhängige"" Frauen."
+173,B1.2,Adverb,-,wenigstens,-,-,-,-,-,-,-,at least,"Wenn man zu spät kommt, dann sollte man sich wenigstens entschuldigen."
+174,B1.2,Verb,-,verhalten,verhält,verhielt ·,hat verhalten,0,-,-,-,behave,Ihr verhieltet euch seltsam
+175,B1.2,Adjective,-,höflich,-,-,-,-,-,höflicher,am höflichsten,polite,"Niemand mag ""unhöfliche"" Verkäufer."
+176,B1.2,Sagen,-,einen guten Eindruck machen,-,-,-,-,-,-,-,"sich so verhalten, dass die anderen nur positiv über einen denken",
+177,B1.2,Adverb,-,sowieso,-,-,-,-,-,-,-,anyway,Ich mache das sowieso.
+178,B1.2,Sagen,-,auf jeden Fall,-,-,-,-,-,-,-,"in any case, definitely",Auf jeden Fall komme ich
+179,B1.2,Verb,-,fordern,fordert,forderte,hat gefordert,1,-,-,-,demand,"Smith ""forderte"" die Zahlung."
+180,B1.2,Noun,die,Entscheidung,-,-,-,-,Entscheidungen,-,-,decision,Er trifft eine wichtige Entscheidung über seine Karriere.
+181,B1.2,Verb,-,spenden,spendet,spendete,hat gespendet,1,-,-,-,donate,"Der Supermarkt spendet der Tafel Lebensmittel, die niemand gekauft hat."
+,,Verb,-,verteilen,verteilt,verteilte,hat verteilt,1,-,-,-,distribute,Die Lebensmittel werden verteilt.
+,,Verb,-,fliehen,flieht,floh,ist geflohen,0,-,-,-,flee,Viele Menschen fliehen vor dem Krieg in ihrer Heimat.
