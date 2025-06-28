@@ -21,3 +21,6 @@
 
 24.05.2025 = 54 / 71 
 ['besitzen', 'bügeln', 'umsteigen', 'gelangen', 'wahrnehmen', 'entspannen', 'hinzufügen', 'empfinden', 'bekommen', 'einziehen', 'abtrocknen', 'kennen', 'schaffen', 'gelingen', 'pendeln', 'unterbrechen', 'leihen', 'lesen']
+
+28.06.2025 
+['Schwerpunkt', 'Zeitempfinden', 'Vorschlag', 'Projekt', 'Ausbildung', 'Geschirr', 'Fähigkeit', 'Ausrede', 'Präsentation', 'Treffpunkt', 'Selbstverteidigung', 'Angst', 'Redakteur', 'Vorgang', 'Radweg', 'Luft', 'Gesetz', 'Ernährung', 'Pendeln', 'Mitglied', 'Begeisterung', 'Koffer', 'Angebot', 'Nachbar', 'Supermarkt', 'Alltag', 'Zeitdruck']
