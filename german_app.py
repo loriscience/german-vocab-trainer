@@ -1,6 +1,6 @@
 import csv
 import random
-from tkinter import *
+from tkinter import Tk, Label, Frame, Button, X, LEFT
 from tkinter import ttk
 
 class GermanTrainer:
