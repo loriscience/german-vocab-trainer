@@ -92,6 +92,11 @@ class GermanTrainer:
     def check_answer(self):
         correct = True
         results = []
+
+        if not self.current_word:
+            self.show_feedback("Error: No current word available", "red")
+            self.root.after(1500, self.show_next_word)
+            return
         
         for key, entry in self.answer_entries:
             user_answer = entry.get().strip()
