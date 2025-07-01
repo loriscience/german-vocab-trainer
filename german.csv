@@ -190,5 +190,32 @@ To acquire  through hard work","- Wir müssen gemeinsam ein neues Konzept erarbe
 179,B1.2,Verb,-,fordern,fordert,forderte,hat gefordert,1,-,-,-,demand,"Smith ""forderte"" die Zahlung."
 180,B1.2,Noun,die,Entscheidung,-,-,-,-,Entscheidungen,-,-,decision,Er trifft eine wichtige Entscheidung über seine Karriere.
 181,B1.2,Verb,-,spenden,spendet,spendete,hat gespendet,1,-,-,-,donate,"Der Supermarkt spendet der Tafel Lebensmittel, die niemand gekauft hat."
-,,Verb,-,verteilen,verteilt,verteilte,hat verteilt,1,-,-,-,distribute,Die Lebensmittel werden verteilt.
-,,Verb,-,fliehen,flieht,floh,ist geflohen,0,-,-,-,flee,Viele Menschen fliehen vor dem Krieg in ihrer Heimat.
+182,B1.2,Verb,-,verteilen,verteilt,verteilte,hat verteilt,1,-,-,-,distribute,Die Lebensmittel werden verteilt.
+183,B1.2,Verb,-,fliehen,flieht,floh,ist geflohen,0,-,-,-,flee,Viele Menschen fliehen vor dem Krieg in ihrer Heimat.
+184,B1.2,Verb,-,etwas errichten,errichtet,errichtete,hat errichtet,1,-,-,-,etwas aufbauen,"Die Arbeiter ""errichteten"" das Haus."
+185,B1.2,Adjective,-,friedlich,-,-,-,-,-,friedlicher,am friedlichsten,peaceful,"Tom schläft ""friedlich"" "
+186,B1.2,Verb,die,Grenze,-,-,-,-,Grenzen,-,-,border,"Frankreich hat eine ""Grenze"" mit Italien."
+187,B1.2,Noun,der,Fortschritt,-,-,-,-,Fortschritte,-,-,progress,"Wenn man keinen Fortschritt hat, kann man die Motivation verlieren."
+188,B1.2,Noun,die,Währung,-,-,-,-,Währungen,-,-,Currency,"Wo kann ich ausländische ""Währung"" wechseln?"
+189,B1.2,Verb,-,einmischen,mischt ein,mischte ein,hat eingemischt,1,-,-,-,intervene,"Ich möchte mich nicht ""einmischen"""
+190,B1.2,Verb,-,stehlen,stiehlt,stahl,hat gestohlen,0,-,-,-,steal,Ihr Geld wurde gestohlen
+191,B1.2,Verb,-,hindern,hindert,hinderte,hat gehindert,1,-,-,-,hinder,"Der Unfall ""hinderte"" uns daran weiterzufahren."
+192,B1.2,Adjective,-,obdachlos,-,-,-,-,-,-,-,homeless,"Er war drei Monate ""obdachlos"""
+193,B1.2,Adjective,-,zuverlässig,-,-,-,-,-,zuverlässiger,am zuverlässigsten,reliable,"Sie ist ""zuverlässig"" und geduldig."
+194,B1.2,Verb,-,erfahren,erfährt,erfurh,hat erfahren,0,-,-,-,"1 - find out 
+2 - experience","- Ich habe gestern erfahren, dass Lisa umzieht.
+- Auf der Reise habe ich viel Neues erfahren."
+195,B1.2,Verb,-,aufhalten,hält auf,hielt auf,hat aufgehalten,0,-,-,-,"1-  To stop / delay / hold up
+2 - To stay (somewhere) — often with reflexive form ""sich aufhalten""
+","1- Der Stau hat mich lange aufgehalten.
+2- Wo hältst du dich momentan auf?"
+196,B1.2,Noun,der,Betrieb,-,-,-,-,Betriebe,-,-,small company,Mein Vater arbeitet in einem kleinen Betrieb.
+197,B1.2,Verb,-,zulassen,lässt zu,ließ zu,hat zugelassen,0,-,-,-,"allow, permit",Nur die besten Kandidaten werden zur Prüfung zugelassen.
+198,B1.2,Verb,-,übernehmen,nimmt über,nahm über,hat übergenommen,0,-,-,-,take over,Ich kann diese Aufgabe gerne übernehmen.
+199,B1.2,Verb,-,vernichten,vernichtet,vernichtete,hat vernichtet,1,-,-,-,to destroy,Das Feuer hat das gesamte Gebäude vernichtet.
+200,B1.2,Verb,-,wegwerfen,wirft weg,warf weg,hat weggeworfen ,0,-,-,-,throw away,"Du solltest deine Chance nicht wegwerfen.
+Kannst du bitte den Müll wegwerfen?"
+201,B1.2,Verb,-,benötigen,benötigt,benötigte,hat benötigt,1,-,-,-,need,Wir benötigen mehr Informationen.
+202,B1.2,Adjective,-,bedürftig,-,-,-,-,-,bedürftiger,am bedürftigsten,needy,Viele bedürftige Menschen haben keinen Zugang zu sauberem Wasser.
+203,B1.2,Adjective,-,ehrenamtlich,-,-,-,-,-,-,-,voluntary,Er arbeitet ehrenamtlich im Tierheim.
+204,B1.2,Verb,-,sich einsetzen für,setzt ein,setzte ein,hat eingesetzt,1,-,-,-,to actively support or defend someone or something,Wir müssen uns für die Rechte der Kinder einsetzen.
