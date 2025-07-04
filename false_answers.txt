@@ -23,4 +23,16 @@
 ['besitzen', 'bügeln', 'umsteigen', 'gelangen', 'wahrnehmen', 'entspannen', 'hinzufügen', 'empfinden', 'bekommen', 'einziehen', 'abtrocknen', 'kennen', 'schaffen', 'gelingen', 'pendeln', 'unterbrechen', 'leihen', 'lesen']
 
 28.06.2025 
-['Schwerpunkt', 'Zeitempfinden', 'Vorschlag', 'Projekt', 'Ausbildung', 'Geschirr', 'Fähigkeit', 'Ausrede', 'Präsentation', 'Treffpunkt', 'Selbstverteidigung', 'Angst', 'Redakteur', 'Vorgang', 'Radweg', 'Luft', 'Gesetz', 'Ernährung', 'Pendeln', 'Mitglied', 'Begeisterung', 'Koffer', 'Angebot', 'Nachbar', 'Supermarkt', 'Alltag', 'Zeitdruck']
+['Schwerpunkt', 'Zeitempfinden', 'Vorschlag', 'Projekt', 'Ausbildung', 'Geschirr', 'Fähigkeit', 'Ausrede', 'Präsentation', 
+'Treffpunkt', 'Selbstverteidigung', 'Angst', 'Redakteur', 'Vorgang', 'Radweg', 'Luft', 'Gesetz', 'Ernährung', 'Pendeln', 'Mitglied', 
+'Begeisterung', 'Koffer', 'Angebot', 'Nachbar', 'Supermarkt', 'Alltag', 'Zeitdruck']
+
+
+04.07.2025 - VERB PRACTICE - 62/98
+['erfahren', 'schaffen', 'besitzen', 'übernehmen', 'besichtigen', 'leihen', 'bügeln', 'sich einsetzen für', 
+'aufhalten', 'vorstellen', 'zulassen', 'umsteigen', 'lassen', 'zumachen', 'entspannen', 'wegwerfen', 'begegnen', 
+'liefern', 'spenden', 'empfinden', 'abtrocknen', 'lesen', 'gelingen', 'verlieren', 'verhalten', 'fordern', 'abbieten', 
+'stehlen', 'beschließen', 'reinigen', 'ankommen', 'versprechen', 'kennen', 'einmischen', 'umsetzen']
+
+
+
