@@ -35,4 +35,8 @@
 'stehlen', 'beschließen', 'reinigen', 'ankommen', 'versprechen', 'kennen', 'einmischen', 'umsetzen']
 
 
+13.07.2025 - Noun PRACTICE - 46 / 69 
+['Präsentation', 'Alltag', 'Unterkunft', 'Auftrag', 'Radweg', 'Park', 'Zeitdruck', 'Projekt', 'Pendeln', 
+'Begeisterung', 'Treffpunkt', 'Mitglied', 'Ernährung', 'Angst', 'Geschirr', 'Post', 'Gesetz', 'Vorschlag', 
+'Luft', 'Angebot', 'Koffer', 'Hauptstadt', 'Selbstverteidigung']
 
