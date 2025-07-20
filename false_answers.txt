@@ -40,3 +40,8 @@
 'Begeisterung', 'Treffpunkt', 'Mitglied', 'Ernährung', 'Angst', 'Geschirr', 'Post', 'Gesetz', 'Vorschlag', 
 'Luft', 'Angebot', 'Koffer', 'Hauptstadt', 'Selbstverteidigung']
 
+20.07.2025 - Verb - 67 / 103
+['bestellen', 'aufhalten', 'gelingen', 'fliehen', 'umsteigen', 'entdecken', 'einmischen', 'gelangen', 'besetzen', 
+'fordern', 'schaffen', 'leihen', 'umsetzen', 'kennen', 'übernehmen', 'lassen', 'abheben', 'pendeln', 'bekommen', 'zusammenstoßen', 
+'auslösen', 'empfehlen', 'besitzen', 'abstellen', 'stehlen', 'beschließen', 'wegwerfen', 'sich einsetzen für', 'abbieten', 
+'abtrocknen', 'zwingen', 'verhalten', 'entspannen', 'wahrnehmen', 'pensionieren', 'begegnen']
