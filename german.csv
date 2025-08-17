@@ -49,7 +49,7 @@ Du lässt dir eine Pizza bringen"
 45,0,Noun,der,Koffer,-,-,-,-,Koffer,-,-,suitcase,Ich packe meinen Koffer
 46,0,Verb,-,besichtigen,besichtigt,besichtigte,hat besichtigt,1,-,-,-,"view, visit",Die Studenten wollen das Parlament besichtigen
 47,0,Adjektive,-,voll,-,-,-,-,-,voller,am vollsten,full,Aber der Bus ist oft sehr voll 
-48,0,Verb,-,versprechen,verspricht,versprach,hat versprochen,0,-,-,-,promise,Ich verspreche es
+48,0,Verb,-,versprechen,verspricht,versprach,hat versprochen,0,-,-,-,promise,Er hat sein Versprechen gehalten.
 49,0,Verb,-,abholen,holt ab,holte ab,hat abgeholt,1,-,-,-,pick up,Wir holen dich ab
 50,0,Verb,-,leihen,leiht,lieh,hat geliehen,0,-,-,-,"borrow,lend","Ich leihe dir Geld
 Bitte leiht mir Geld"
@@ -199,7 +199,7 @@ To acquire  through hard work","- Wir müssen gemeinsam ein neues Konzept erarbe
 188,0,Noun,die,Währung,-,-,-,-,Währungen,-,-,Currency,"Wo kann ich ausländische ""Währung"" wechseln?"
 189,0,Verb,-,einmischen,mischt ein,mischte ein,hat eingemischt,1,-,-,-,intervene,"Ich möchte mich nicht ""einmischen"""
 190,0,Verb,-,stehlen,stiehlt,stahl,hat gestohlen,0,-,-,-,steal,Ihr Geld wurde gestohlen
-191,0,Verb,-,hindern,hindert,hinderte,hat gehindert,1,-,-,-,hinder,"Der Unfall ""hinderte"" uns daran weiterzufahren."
+191,0,Verb,-,hindern,hindert,hinderte,hat gehindert,1,-,-,-,prevent,"Der Unfall ""hinderte"" uns daran weiterzufahren."
 192,0,Adjective,-,obdachlos,-,-,-,-,-,-,-,homeless,"Er war drei Monate ""obdachlos"""
 193,0,Adjective,-,zuverlässig,-,-,-,-,-,zuverlässiger,am zuverlässigsten,reliable,"Sie ist ""zuverlässig"" und geduldig."
 194,0,Verb,-,erfahren,erfährt,erfuhr,hat erfahren,0,-,-,-,"1 - find out 
@@ -246,3 +246,46 @@ Die Erde hat mehrere Schichten aus Gestein und Wasser."
 - Sein Stil hebt sich von den anderen ab.
 - Seit dem Erfolg hebt er total ab."
 224,0,Verb,-,sparen,spart,sparte,hat gespart,1,-,-,-,save,"Wofür ""sparst"" du?"
+225,0,Adjective,-,gespannt,-,-,-,-,-,gespannter,am gespanntesten,curious,Ich bin darauf gespannt.
+226,0,Adjective,-,eifersüchtig,-,-,-,-,-,eifersüchtigerer,am eifersüchtigsten,jealous,Willst du mich eifersüchtig machen? 
+227,0,Verb,-,verkleiden,verkleidet,verkleidete,hat verkleidet,1,-,-,-,"1 - sich anders anziehen, um auszusehen wie jemand anderes → to disguise, to dress up
+2 - etwas mit einem Material bedecken, um es schöner oder anders erscheinen zu lassen → to cover, to clad","1- Zu Karneval verkleiden sich viele Kinder als Piraten.
+2- Er verkleidete die Wand mit Holzpaneelen."
+228,0,Adjective,-,vernünftig,-,-,-,-,-,vernünftiger,am vernünftigsten," reasonable, sensible",Sei bitte vernünftig und geh früher ins Bett.
+229,0,Adverb,-,eigentlich,-,-,-,-,-,-,-,"1- ursprünglich, in Wahrheit → actually, really
+
+2- normalerweise, grundsätzlich → basically, generally
+
+3- Als Füllwort zur Abschwächung oder Höflichkeit → actually / by the way","1 - Ich wollte eigentlich gestern kommen, hatte aber keine Zeit. 
+=  (I actually wanted to come yesterday, but I had no time.)
+2 - Wie heißt du eigentlich?
+= (What’s your name, by the way?)"
+230,0,Ausdruck,-,zu zweit,-,-,-,-,-,-,-,"zwei Personen gemeinsam → as a pair, the two of us / them","1. Das Spiel kann man nur zu zweit spielen.
+ (This game can only be played by two people.)
+2. Sie wohnen zu zweit in einer kleinen Wohnung.
+(They live together as two people in a small apartment.)"
+231,0,Noun,die,Anpassung,-,-,-,-,Anpassungen,-,-,Adjustment / Adaptation,"Die Anpassung des Plans war notwendig, um das Ziel zu erreichen."
+232,0,Verb,-,sich streiten,streitet sich,stritt sich,hat sich gestritten,0,-,-,-,to argue, Ich streite mich oft mit meinem Bruder über Kleinigkeiten.
+233,0,Noun,die,Scheidung,-,-,-,-,Scheidungen,-,-,divorce,Sie lassen sich scheiden.
+234,0,Verb,-,scheiden,scheidet,schied,ist geschieden,0,-,-,-,"1. to part, to separate (people, paths, things)
+2. to leave/divide
+3. sich scheiden lassen – to get divorced","Unsere Wege schieden sich nach der Schule.
+Our paths parted after school.
+
+Der Tod hat sie geschieden.
+Death parted them.
+
+Sie wollen sich scheiden lassen.
+They want to get divorced."
+235,0,Adjective,-,angenehm / unangenehm,-,-,-,-,-,angenehmer,am angenehmsten,"pleasant, agreeable (describing people, situations, feelings)","Es war eine angenehme Überraschung, dich hier zu treffen."
+236,0,Verb,-,drohen,droht,drohte,hat gedroht,-,-,-,-,"1. to threaten (jemandem etwas Schlechtes androhen)
+
+2. to be in danger of / to loom (etwas droht zu passieren)","1. Trump droht mit neuen Zöllen auf Stahl und Halbleiter
+2. Wenn du weiter so fährst, droht ein Unfall."
+237,0,Verb,-,einigen,einigt,einigte,hat geeinigt,1,-,-,-,"1. sich einigen (auf + Akk.) → to agree on something
+
+2. sich einigen (mit + Dat.) → to come to an agreement with someone
+
+3. einigen (selten nicht-reflexiv) → to unite, to reconcile","1. Wir haben uns auf einen Termin geeinigt.
+2. Die Parteien einigten sich nach langen Verhandlungen.
+3. Können wir uns bitte darauf einigen, wer heute kocht?"
