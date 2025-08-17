@@ -48,3 +48,10 @@
 
 03.08.2025
 ['Ernährung', 'Pendeln', 'Redakteur', 'Treffpunkt', 'Anschluss', 'Projekt', 'Laden', 'Präsentation', 'Ausland', 'Zeitempfinden', 'Gerechtigkeit', 'Radweg', 'Enttäuschung', 'Dreck', 'Zeitdruck', 'Stadtteil', 'Angst', 'Geschwindigkeit', 'Post', 'Mitglied', 'Rücksicht', 'Angebot', 'Alltag', 'Hauptstadt', 'Lärm', 'Begeisterung', 'Gesetz', 'Luft', 'Schicht', 'Erziehung']
+
+
+
+17.08.2025 - VERB exercise 
+[einziehen, umsetzen, zusammenstoßen, erschöpfen, drohen, besetzen, erfahren, einsetzen, besitzen, abstellen, gelingen, einigen, scheiden,
+abheben, empfehlen, gelangen, verteilen, aufhalten, verkleiden, erarbeiten, bewältigen, errichten, zulassen, schaffen, auslösen, entdecken, vernichten,
+begegnen, sparen, lassen, abbieten, leihen, zwingen, verlassen, stehlen, einmischen, fliehen, fordern, verhalten, beschädigen, empfinden, streiten]
