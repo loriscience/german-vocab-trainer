@@ -55,3 +55,8 @@
 [einziehen, umsetzen, zusammenstoßen, erschöpfen, drohen, besetzen, erfahren, einsetzen, besitzen, abstellen, gelingen, einigen, scheiden,
 abheben, empfehlen, gelangen, verteilen, aufhalten, verkleiden, erarbeiten, bewältigen, errichten, zulassen, schaffen, auslösen, entdecken, vernichten,
 begegnen, sparen, lassen, abbieten, leihen, zwingen, verlassen, stehlen, einmischen, fliehen, fordern, verhalten, beschädigen, empfinden, streiten]
+
+
+31.08.2025 - VERB exercise
+umsetzen, drohen, abstellen, gelingen, scheiden, abheben, gelangen, erarbeiten, bewältigen, errichten, zulassen, schaffen, auslösen, vernichten, sparen, lassen, einmischen, 
+fliehen, fordern, verhalten, beschädigen, streiten
